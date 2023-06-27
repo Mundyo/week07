@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+C:\Users\Le-Yo\eclipse-workspace\BE-Promineo-Tech\week07\.metadata\.plugins\org.eclipse.jdt.core
+1272891905.index
+1865797976.index
+1502340361.index
+1176391851.index
+3416876796.index

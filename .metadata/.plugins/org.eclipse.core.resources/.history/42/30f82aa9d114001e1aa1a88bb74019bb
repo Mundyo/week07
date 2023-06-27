@@ -1,0 +1,26 @@
+package projects.exception;
+
+import java.sql.SQLException;
+
+import javax.management.RuntimeErrorException;
+
+@SuppressWarnings({ "serial", "unused" })
+public class DbException1 extends RuntimeErrorException {
+
+	public DbException1(Error e) {
+		super(e);
+		// TODO Auto-generated constructor stub
+	}
+
+	public DbException1(Error e, String message) {
+		super(e, message);
+		// TODO Auto-generated constructor stub
+	}
+
+	public DbException(Error e) {
+		// TODO Auto-generated constructor stub
+		super(e);
+	}
+
+
+}

@@ -1,0 +1,17 @@
+package projects.exception;
+
+import javax.management.RuntimeErrorException;
+
+public class DbException extends RuntimeErrorException {
+
+	public DbException(Error e) {
+		super(e);
+		// TODO Auto-generated constructor stub
+	}
+
+	public DbException(Error e, String message) {
+		super(e, message);
+		// TODO Auto-generated constructor stub
+	}
+
+}
